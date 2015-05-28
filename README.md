@@ -7,6 +7,7 @@ The directive is dependent on the [angular-local-storage](https://github.com/gre
 
 
 *To do:*
+* *Replace with state management*
 * *Remove dependencies?*
 * *Re-factor*
 * *Persist filters*
