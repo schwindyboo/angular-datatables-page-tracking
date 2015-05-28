@@ -1,0 +1,3 @@
+[submodule "angular-local-storage"]
+	path = angular-local-storage
+	url = https://github.com/grevory/angular-local-storage.git
