@@ -3,12 +3,12 @@
 
 The directive is dependent on the [angular-local-storage](https://github.com/grevory/angular-local-storage) service for page persistence 
 
-**This is the first itteration of this directive and will be improved in the future**
+**This is the first iteration of this directive and will be improved in the future**
 
 
 *To do:*
-* *Remove dependenies?*
-* *Refactor*
+* *Remove dependencies?*
+* *Re-factor*
 * *Persist filters*
 * *Persist ordering*
 
